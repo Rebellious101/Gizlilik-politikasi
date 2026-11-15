@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hesap ve Veri Silme Talebi - Prestij Market</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 750px;
+            margin: 30px auto;
+            background: #ffffff;
+            padding: 35px 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+        }
+        h1 {
+            color: #1a202c;
+            font-size: 24px;
+            border-bottom: 2px solid #edf2f7;
+            padding-bottom: 12px;
+            margin-top: 0;
+        }
+        h2 {
+            color: #2d3748;
+            font-size: 18px;
+            margin-top: 24px;
+            margin-bottom: 8px;
+        }
+        p, li {
+            font-size: 15px;
+            color: #4a5568;
+        }
+        .box {
+            background-color: #f1f5f9;
+            border-left: 4px solid #3b82f6;
+            padding: 15px 20px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #edf2f7;
+            font-size: 13px;
+            color: #718096;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Prestij Market - Hesap ve Veri Silme Talebi</h1>
+        <p>
+            <strong>Prestij Market</strong> mobil uygulamasındaki hesabınızın ve hesabınızla ilişkili tüm kişisel verilerin kalıcı olarak silinmesini talep edebilirsiniz.
+        </p>
+
+        <h2>Hesap Silme Talebi Nasıl Oluşturulur?</h2>
+        <div class="box">
+            <strong>Yöntem 1: E-posta ile Talep Gönderme</strong><br>
+            Uygulamaya kayıtlı telefon numaranızı belirterek <strong>destek@prestijmarket.com</strong> adresine <em>"Hesap Silme Talebi"</em> konu başlığıyla bir e-posta gönderin. Talebiniz en geç <strong>7 iş günü</strong> içinde işleme alınarak hesabınız kalıcı olarak silinecektir.
+        </div>
+        <p>
+            <strong>Yöntem 2: Uygulama İçinden Silme</strong><br>
+            Uygulamaya giriş yaptıktan sonra <strong>Profil &gt; Hesap Ayarları &gt; Hesabımı Sil</strong> adımlarını izleyerek hesabınızı doğrudan silebilirsiniz (uygulama sürümünüzde bu özellik aktifse).
+        </p>
+
+        <h2>Silinen ve Saklanan Veriler</h2>
+        <ul>
+            <li><strong>Kalıcı Olarak Silinen Veriler:</strong> Ad, soyad, kayıtlı telefon numarası, e-posta adresi, kayıtlı teslimat adresleri ve favori ürün listeleriniz sistemlerimizden tamamen silinir.</li>
+            <li><strong>Yasal Zorunluluk Gereği Saklanan Veriler:</strong> Tamamlanmış siparişlere ait fatura ve finansal işlem kayıtları, ilgili vergi ve ticaret mevzuatı gereği yasal saklama süresi boyunca anonimleştirilmiş veya kısıtlı erişimli olarak muhafaza edilebilir; bu süre sonunda otomatik olarak imha edilir.</li>
+        </ul>
+
+        <div class="footer">
+            &copy; 2026 Prestij Market. Tüm hakları saklıdır.
+        </div>
+    </div>
+</body>
+</html>
